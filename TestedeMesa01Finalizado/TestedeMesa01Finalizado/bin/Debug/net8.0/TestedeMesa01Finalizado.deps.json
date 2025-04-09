@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TestedeMesa01Finalizado/1.0.0": {
+        "runtime": {
+          "TestedeMesa01Finalizado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestedeMesa01Finalizado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

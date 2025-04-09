@@ -1,0 +1,14 @@
+C:\Users\augustosobrinho\source\repos\TestedeMesa01Finalizado\TestedeMesa01Finalizado\bin\Debug\net8.0\TestedeMesa01Finalizado.exe
+C:\Users\augustosobrinho\source\repos\TestedeMesa01Finalizado\TestedeMesa01Finalizado\bin\Debug\net8.0\TestedeMesa01Finalizado.deps.json
+C:\Users\augustosobrinho\source\repos\TestedeMesa01Finalizado\TestedeMesa01Finalizado\bin\Debug\net8.0\TestedeMesa01Finalizado.runtimeconfig.json
+C:\Users\augustosobrinho\source\repos\TestedeMesa01Finalizado\TestedeMesa01Finalizado\bin\Debug\net8.0\TestedeMesa01Finalizado.dll
+C:\Users\augustosobrinho\source\repos\TestedeMesa01Finalizado\TestedeMesa01Finalizado\bin\Debug\net8.0\TestedeMesa01Finalizado.pdb
+C:\Users\augustosobrinho\source\repos\TestedeMesa01Finalizado\TestedeMesa01Finalizado\obj\Debug\net8.0\TestedeMesa01Finalizado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augustosobrinho\source\repos\TestedeMesa01Finalizado\TestedeMesa01Finalizado\obj\Debug\net8.0\TestedeMesa01Finalizado.AssemblyInfoInputs.cache
+C:\Users\augustosobrinho\source\repos\TestedeMesa01Finalizado\TestedeMesa01Finalizado\obj\Debug\net8.0\TestedeMesa01Finalizado.AssemblyInfo.cs
+C:\Users\augustosobrinho\source\repos\TestedeMesa01Finalizado\TestedeMesa01Finalizado\obj\Debug\net8.0\TestedeMesa01Finalizado.csproj.CoreCompileInputs.cache
+C:\Users\augustosobrinho\source\repos\TestedeMesa01Finalizado\TestedeMesa01Finalizado\obj\Debug\net8.0\TestedeMesa01Finalizado.dll
+C:\Users\augustosobrinho\source\repos\TestedeMesa01Finalizado\TestedeMesa01Finalizado\obj\Debug\net8.0\refint\TestedeMesa01Finalizado.dll
+C:\Users\augustosobrinho\source\repos\TestedeMesa01Finalizado\TestedeMesa01Finalizado\obj\Debug\net8.0\TestedeMesa01Finalizado.pdb
+C:\Users\augustosobrinho\source\repos\TestedeMesa01Finalizado\TestedeMesa01Finalizado\obj\Debug\net8.0\TestedeMesa01Finalizado.genruntimeconfig.cache
+C:\Users\augustosobrinho\source\repos\TestedeMesa01Finalizado\TestedeMesa01Finalizado\obj\Debug\net8.0\ref\TestedeMesa01Finalizado.dll

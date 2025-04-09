@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\augustosobrinho\\source\\repos\\TestedeMesa01Finalizado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3A9DB0-0032-4EAC-8326-55081E449B00}|TestedeMesa01Finalizado\\TestedeMesa01Finalizado.csproj|c:\\users\\augustosobrinho\\source\\repos\\testedemesa01finalizado\\testedemesa01finalizado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3A9DB0-0032-4EAC-8326-55081E449B00}|TestedeMesa01Finalizado\\TestedeMesa01Finalizado.csproj|solutionrelative:testedemesa01finalizado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\augustosobrinho\\source\\repos\\TestedeMesa01Finalizado\\TestedeMesa01Finalizado\\Program.cs",
+              "RelativeDocumentMoniker": "TestedeMesa01Finalizado\\Program.cs",
+              "ToolTip": "C:\\Users\\augustosobrinho\\source\\repos\\TestedeMesa01Finalizado\\TestedeMesa01Finalizado\\Program.cs",
+              "RelativeToolTip": "TestedeMesa01Finalizado\\Program.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:12:34.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
