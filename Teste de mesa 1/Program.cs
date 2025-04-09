@@ -91,7 +91,7 @@ class Exercicios
         Console.WriteLine("------------------------------------------------");
 
 
-        while (a <= 6)
+        while (a < 6)
         {
             v[a] = 10 * a;
             Console.WriteLine($"v[{a}] = {v[a]}");
