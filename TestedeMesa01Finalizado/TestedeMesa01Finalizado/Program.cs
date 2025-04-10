@@ -78,8 +78,21 @@ class Exercicios
         }
 
         Console.WriteLine("------------------------------------------------");
-    }
 
+        for (i = 0; i < 4; i++)
+        {
+            if (v[i] != 5)
+            {
+                Console.WriteLine($"|   {i,-5}    |  null  |");
+            }
+            else
+            {
+                Console.WriteLine($"|   {i,-5}    |  {v[i],-5}  |");
+            }
+        }
+
+        Console.WriteLine("------------------------------------------------");
+    }
 
     static void Exercicio02()
     {
